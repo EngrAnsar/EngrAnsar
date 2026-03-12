@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngrAnsar
-- 👀 I’m interested in ML in smart grid system
-- 🌱 I’m currently learning ..AI/ML.
-- 💞️ I’m looking to collaborate on CNN
+- 👀 My Work is  in ML in smart grid system
+- 🌱 I’m currently contributing in ..AI/ML.
+- 💞️ I’m looking to collaborate on CNN, RNN
 - 📫 How to reach me . engr.mianansar24@gmail.com..
 
 <!---
