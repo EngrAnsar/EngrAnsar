@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngrAnsar
+- 👋 Hi, I’m EngrAnsar
 - 👀 My Work is  in ML in smart grid system, Energy Trading, power System
 - 🌱 I’m currently contributing in ..AI/ML.
 - 💞️ I’m looking to collaborate on CNN, RNN
