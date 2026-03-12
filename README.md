@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EngrAnsar
-- 👀 My Work is  in ML in smart grid system
+- 👀 My Work is  in ML in smart grid system, Energy Trading, power System
 - 🌱 I’m currently contributing in ..AI/ML.
 - 💞️ I’m looking to collaborate on CNN, RNN
 - 📫 How to reach me . engr.mianansar24@gmail.com..
